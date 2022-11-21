@@ -49,7 +49,7 @@ deposit 5 ETH
 
 <img width="838" alt="deposited5eth" src="https://user-images.githubusercontent.com/107937930/202946860-62c94280-9523-40cb-83f7-37eb921aa8ca.png">
 
-withdraw 10 eth from account 
+withdraw 10 eth into account 2
 
 <img width="294" alt="withdraw10eth" src="https://user-images.githubusercontent.com/107937930/202947047-1caba529-c782-456a-9beb-db22382b94da.png">
 
